@@ -47,3 +47,5 @@ PORT      STATE SERVICE
 31790/tcp open  unknown
 31960/tcp open  unknown
 ```
+
+!~/bandit27-do cat /etc/bandit_pass/bandit27

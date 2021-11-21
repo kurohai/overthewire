@@ -1,0 +1,40 @@
+# Over The Wire Bandit Solved Passwords
+
+
+```
+00: bandit0
+01: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+02: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17: xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
+18: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+19: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+20: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+21: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+22: Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+23: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+24: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+25: uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+26: 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+27: 3ba3118a22e93127a4ed485be72ef5ea
+28: 0ef186ac70e04ea33b4c1853d2526fa2
+29: bbc96594b4e001778eee9975372716b2
+30: 5b90576bedb2cc04c86a9e924ce42faf
+31: 47e603bb428404d265f59c42920d81e5
+32: 56a9bf19c63d650ce78e6ec0354ee45e
+33: c9c3199ddf4121b10cf581a98d51caee
+```
+ 
