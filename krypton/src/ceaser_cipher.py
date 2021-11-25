@@ -3,6 +3,9 @@
 
 from pprint import pprint as pp
 import sys
+from logutil import get_logger
+
+log = get_logger(__name__)
 
 
 def encrypt(text, s):
@@ -23,11 +26,11 @@ def encrypt(text, s):
     return result
 
 
-def normal_cesear(text, rot):
+def normal_cesear(text, s):
     result = str()
     for i in range(len(text)):
         char = text[i]
-        print("working on char: {0}".format(char))
+        # print("working on char: {0}".format(char))
         if char == " ":
             result += str(char)
         else:
@@ -41,15 +44,19 @@ def main(args):
 
     # check the above function
     # text = "CEASER CIPHER DEMO"
-    text = "YRIRY GJB CNFFJBEQ EBGGRA"
-    s = 5
+    # text = "YRIRY GJB CNFFJBEQ EBGGRA"
+    # text = "MNOPQRSTUVWXYZABCQEFGHIJKL"
+    text = "KSVVW BGSJD SVSIS VXBMN YQUUK BNWCU ANMJS"
+    s = 13
+    n = 14
 
     # print("Plain Text : " + text)
     # print("Shift pattern : " + str(s))
-    # print("Cipher: " + encrypt(text, s))
+    print("Cipher: " + encrypt(text, 13))
 
     # pp(encrypt("Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh", 13))
-    pp(normal_cesear(text, 5))
+    # for n in range(128):
+    log.debug("{0}\t {1}".format(n, normal_cesear(text, n)))
 
 
 if __name__ == "__main__":
